@@ -12,7 +12,7 @@ public class Start {
 	}
 	
 	private static void StartApp(){
-		//test commit
+		//test commit2
 		AppController controller = new AppController();
 		
 		MouseClickerWindow view = new MouseClickerWindow(controller);
